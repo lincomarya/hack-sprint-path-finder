@@ -20,14 +20,14 @@ Make a document named **```answer.md```** explaining how you approached each lev
 
 The Document should contain your **name**, **year**, **branch**.
 
-- Fork the repo
+- Fork the repo - **https://github.com/lincomarya/hack-sprint-path-finder**
 - Clone the repo by using this command : **```git clone [url of the forked repo]```**
 - Create a new branch with your name by using this command : **```git checkout -b [your name]```**
 - Create **answer.md** file.
 - Add your files to the staging area by using **```git add . ```**
 - Commit your code : **```git commit -m [commit message]```**
 - Push your code by using : **```git push -u origin [branch]```**
-- Create new **pull request**.
+- Create new **pull request** on **https://github.com/lincomarya/hack-sprint-path-finder/pulls**
 
 ## Note
 
