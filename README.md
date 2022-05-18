@@ -2,6 +2,11 @@
 
 **Hack Sprint Path Finder** is a Hackathon organized by **Lincom Arya** where you can explore linux by solving the Path Finder Puzzle.
 
+## Requirements
+
+- GitHub Account
+- Git - **https://git-scm.com/downloads**
+
 ## How to Get Started
 
 Open **Command Prompt / PowerShell** on your Windows Machine.
