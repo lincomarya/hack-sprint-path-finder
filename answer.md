@@ -7,8 +7,8 @@ My approch (steps and commands):-
 step 1: (inititalization)
 
 1) Forked the reposetory :- hack-sprint-path-finder
-2) clone the repo by :- git clone https://github.com/NJ8875/hack-sprint-path-finder.git
-3) Created a new Branch by using command :- git checkout -b Naman_Jain
+2) clone the repo by :- git clone https://github.com/ramji861/hack-sprint-path-finder.git
+3) Created a new Branch by using command :- git checkout -b ramji_gupta
 4) Checking Git status:- git log
 4) created answer.md : Touch answer.md
 
